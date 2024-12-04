@@ -11,7 +11,7 @@ Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Node JS, Expre
 - 🔭 I’m currently working on Zocs Lifestyle E-Commerce Website 
 - 🌱 I’m currently learning Advance Programming 
 - 💬 Ask me about Front-end web development 
-- 📫 How to reach me: mdibrahim36193@gmail.com 
+- 📫 How to reach me: mdibrahim36193@gmail.com / I am now Available in Fiverr: https://www.fiverr.com/mdibrahim361
 - 💻 I am now Available in Fiverr: https://www.fiverr.com/mdibrahim361
 
 
@@ -24,6 +24,4 @@ Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Node JS, Expre
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BFIbrahim)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BFIbrahim&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=BFIbrahim)  
 

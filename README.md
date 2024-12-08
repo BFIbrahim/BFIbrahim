@@ -9,7 +9,7 @@
 Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Node JS, Express JS, MongoDB, Firebase, Axios, And Many Effective Tools
 
 - 🔭 I’m currently working on Zocs Lifestyle E-Commerce Website 
-- 🌱 I’m currently learning Advance Programming 
+- 🌱 I’m currently learning latest programming technologies
 - 💬 Ask me about Front-end web development 
 - 📫 How to reach me: mdibrahim36193@gmail.com
 - 💻 I am now Available in Fiverr: https://www.fiverr.com/mdibrahim361

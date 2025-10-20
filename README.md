@@ -1,18 +1,21 @@
 ![Front-End Developer](https://i.ibb.co.com/9T62vdB/Banner.jpg)
 
 ### Hi there 👋, My name is Ibrahim
-#### Front-End Developer
+#### Frontend Web Engineer
 
 
-"👨‍💻 Front-End Developer | ⚡ MERN Stack Specialist | 🎨 Expert in JavaScript, React, and Tailwind CSS for crafting modern, responsive UI/UX | 🛠️ Proficient in Node.js, Express, and MongoDB for building scalable APIs and efficient database solutions | 🚀 Creating dynamic full-stack web applications with clean code, high performance, and seamless user experiences!"
+"👨‍💻 Frontend web Engineer | ⚡ MERN Stack Specialist
+🎨 Expert in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS — crafting modern, responsive, and elegant user interfaces.
+🛠️ Skilled in Node.js, Express, and MongoDB for developing scalable APIs and efficient backend solutions.
+🚀 Passionate about building full-stack web applications with clean code, high performance, and seamless user experiences.
 
-Skills: HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React JS, Node JS, Express JS, MongoDB, Firebase, Axios, And Many Effective Tools
+Skills: JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB and many effective tools.
 
-- 🔭 I’m currently working on Zocs Lifestyle E-Commerce Website 
-- 🌱 I’m currently learning latest programming technologies
-- 💬 Ask me about Front-end web development 
-- 📫 How to reach me: mdibrahim36193@gmail.com
-- 💻 I am now Available in Fiverr: https://www.fiverr.com/mdibrahim361
+🔭 Currently working on Zocs Lifestyle E-Commerce Website
+🌱 Learning the latest web technologies and improving every day
+💬 Ask me about Front-End Web Development
+📫 Reach me at: mdibrahim36193@gmail.com
+💻 Available on Fiverr: fiverr.com/mdibrahim361
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BFIbrahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdibrahim361)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdIbrahim361)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://incredible-buttercream-137712.netlify.app/)  

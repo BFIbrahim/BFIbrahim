@@ -14,7 +14,7 @@ Skills: JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Node
 🔭 Currently working on Zocs Lifestyle E-Commerce Website
 🌱 Learning the latest web technologies and improving every day
 💬 Ask me about Front-End Web Development
-📫 Reach me at: mdibrahim36193@gmail.com
+📫 Reach me at: ibrahimhossain3@yahoo.com
 💻 Available on Fiverr: fiverr.com/mdibrahim361
 
 

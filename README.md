@@ -3,6 +3,29 @@
 ### Hi there 👋, My name is Ibrahim
 #### Frontend Web Engineer
 
+<h4><i>My most frequently used development stack</i></h4>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="ReactJS" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img alt="DevTools" src="https://img.shields.io/badge/-DevTools-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img alt="AI Tools" src="https://img.shields.io/badge/-AI%20Powered%20Tools-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078d7?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+</p>
+
+
+
 
 "👨‍💻 Frontend web Engineer | ⚡ MERN Stack Specialist
 🎨 Expert in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS — crafting modern, responsive, and elegant user interfaces.

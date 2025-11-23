@@ -1,7 +1,7 @@
 ![Front-End Developer](https://i.ibb.co.com/8DCzh6rF/Hi-I-am-Ibrahim-Hossain.png)
 
 ### Hi there 👋, My name is Ibrahim
-#### Frontend Web Engineer
+#### Web Developer
 
 <h4><i>My most frequently used development stack</i></h4>
 <p>
@@ -24,21 +24,9 @@
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
 </p>
 
+## About me - Shortly
+I’m a Full Stack Web Developer dedicated to building web applications that solve real problems and provide value to users. I enjoy learning new technologies and finding efficient ways to improve what I build.
 
-
-
-"👨‍💻 Frontend web Engineer | ⚡ MERN Stack Specialist
-🎨 Expert in JavaScript, TypeScript, React.js, Next.js, and Tailwind CSS — crafting modern, responsive, and elegant user interfaces.
-🛠️ Skilled in Node.js, Express, and MongoDB for developing scalable APIs and efficient backend solutions.
-🚀 Passionate about building full-stack web applications with clean code, high performance, and seamless user experiences.
-
-Skills: JavaScript, TypeScript, React.js, Next.js, Tailwind CSS, Bootstrap, Node.js, Express.js, MongoDB and many effective tools.
-
-🔭 Currently working on Zocs Lifestyle E-Commerce Website
-🌱 Learning the latest web technologies and improving every day
-💬 Ask me about Front-End Web Development
-📫 Reach me at: ibrahimhossain3@yahoo.com
-💻 Available on Fiverr: fiverr.com/mdibrahim361
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BFIbrahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdibrahim361)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/MdIbrahim361)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://incredible-buttercream-137712.netlify.app/)  

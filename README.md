@@ -1,4 +1,4 @@
-![Front-End Developer](https://i.ibb.co.com/9T62vdB/Banner.jpg)
+![Front-End Developer](https://i.ibb.co.com/j9Xf7jvJ/Hi-I-am-Ibrahim-Hossain.png)
 
 ### Hi there 👋, My name is Ibrahim
 #### Frontend Web Engineer
